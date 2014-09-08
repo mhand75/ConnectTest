@@ -1,4 +1,7 @@
-﻿using System;
+﻿
+// this is a test for git
+
+using System;
 using System.Collections.Generic;
 using System.Configuration;
 using System.Data;
